@@ -62,15 +62,29 @@ plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="orange",l
 ## Output:
 data.head() function.
 
+![8 1](https://github.com/arshatha-palanivel/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118682484/c76d439d-39ec-47b7-a097-24268892073d)
+
 data.info().
+
+![8 2](https://github.com/arshatha-palanivel/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118682484/7b29f223-e32b-4af2-9543-93469a69cb64)
 
 data.isnull().sum() function.
 
+![8 3](https://github.com/arshatha-palanivel/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118682484/b653b060-d0b5-4e5c-b697-7fcbb1fc7914)
+
 Elbow method Graph.
+
+![8 4](https://github.com/arshatha-palanivel/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118682484/3f3dbff1-2f6c-4f9d-9017-f833887aeccf)
 
 KMeans clusters.
 
+![8 5](https://github.com/arshatha-palanivel/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118682484/a7fd7b54-d1b6-4a68-b912-5c7257349b4f)
+
+![8 6](https://github.com/arshatha-palanivel/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118682484/a46e6b46-6e2c-4af8-8399-6b49742f9dc3)
+
 Customer segments Graph.
+
+![8 7](https://github.com/arshatha-palanivel/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118682484/c2c91dd6-506d-4fc5-b75e-92e37828fc61)
 
 
 ## Result:
